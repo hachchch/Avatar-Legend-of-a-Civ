@@ -12,7 +12,7 @@
 
 		"declaringWar": "As the leader of the Dai Li and the Grand Secretary to the Earth King, I am authorized to declare war on your nation in the name of our peoples' safety and well-being.",
 		"attacked": "As the Grand Secretary to the Earth King, I condemn your declaration of war on the Earth Kingdom. The Dai Li will not stand idly by while you endanger the peace and security of our people",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"defeated": "You have overwhelmed us with your strength and determination and have proven yourself the victor in this conflict. I ask for mercy for my people and seek a peaceful surrender on your terms.",
 		"introduction": "I am Long Feng, the Grand Secretariat of the Earth King and the leader of Dai Li. Our Earth King wields the power of the elements and the strength of our nation, and under his rule, the Dai Li protects our people and interests.I think we can be equally useful to each other,how about peaceful coexistence?",
 
 		"neutralHello": "Greetings.",
@@ -34,17 +34,17 @@
 		"preferredVictoryType": "Neutral",
 
 		"startIntroPart1": "Introduction",
-		"startIntroPart2": "Oh Mighty Long Feng!Great Secretary and cunning manipulator, you had the honor of being a worthy ruler for the Kingdom of Earth!you have had the honor of leading this nation to victory, and you must make every effort to do so!your land is beautiful and diverse, and the warriors are strong and strong as stone.you and your people have been given the opportunity to bend the earth.So use it wisely and profitably!",
-
-		"declaringWar": "As the leader of the Dai Li and the Grand Secretary to the Earth King, I am authorized to declare war on your nation in the name of our peoples' safety and well-being.",
-		"attacked": "As the Grand Secretary to the Earth King, I condemn your declaration of war on the Earth Kingdom. The Dai Li will not stand idly by while you endanger the peace and security of our people",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "I am Long Feng, the Grand Secretariat of the Earth King and the leader of Dai Li. Our Earth King wields the power of the elements and the strength of our nation, and under his rule, the Dai Li protects our people and interests.I think we can be equally useful to each other,how about peaceful coexistence?",
+		"startIntroPart2": "Hail the wise Giatso!Your wisdom and humility have given you excellent chances to lead your people to victory! Your peaceful approach and neutrality, a wonderful tool for the well-being of your people!So don't let us down Giatso!The small but native and dear tribe of the air relies on you!",
+		
+		"declaringWar": "I am sorry to say that despite our best efforts, it has become clear that we cannot resolve our conflict through peaceful negotiation. We have tried all options but unfortunately none have worked",
+		"attacked": "Dear leader, I understand that you might feel threatened by us and our way of Life. However, I strongly believe that violence and war are not the answer.",
+		"defeated": "The events that have transpired today are devastating for our civilization. The defeat we have suffered at the hands of the enemy has left us in ruins, but we must not let this dampen our resolve",
+		"introduction": "My friend, be sure to lead your people to peace, prosperity and happiness, not to war and misery. Be a light in the darkness of the world, and let your people flourish in that light",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"hateHello": "Greetings...",
 
-		"tradeRequest": "I believe we can strengthen our bond and work together to ensure prosperity for our people",
+		"tradeRequest": "I have come with a proposition. I would like to engage in a beneficial trade offer with you that would help both our civilizations prosper. I propose the following",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
