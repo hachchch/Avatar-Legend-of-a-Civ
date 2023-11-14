@@ -1,7 +1,7 @@
 [
         {
 		//nations
-		"name": "Earth kingdom",
+		"name": "Earth Kingdom",
 		"leaderName": "Long Feng",
 		"adjective": ["Kingdom"],
 		"startBias": ["Avoid [Tundra]","Avoid [Snow]"],
