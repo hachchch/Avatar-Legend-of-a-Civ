@@ -4,7 +4,7 @@
 		"name": "Earth kingdom",
 		"leaderName": "Long Feng",
 		"adjective": ["Kingdom"],
-		"startBias": ["Grassland"],
+		"startBias": ["Avoid [Tundra]","Avoid [Snow]"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Introduction",
@@ -13,12 +13,12 @@
 		"declaringWar": "As the leader of the Dai Li and the Grand Secretary to the Earth King, I am authorized to declare war on your nation in the name of our peoples' safety and well-being.",
 		"attacked": "As the Grand Secretary to the Earth King, I condemn your declaration of war on the Earth Kingdom. The Dai Li will not stand idly by while you endanger the peace and security of our people",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"introduction": "I am Long Feng, the Grand Secretariat of the Earth King and the leader of Dai Li. Our Earth King wields the power of the elements and the strength of our nation, and under his rule, the Dai Li protects our people and interests.I think we can be equally useful to each other,how about peaceful coexistence?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I believe we can strengthen our bond and work together to ensure prosperity for our people",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
