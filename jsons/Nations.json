@@ -24,6 +24,6 @@
 		"innerColor": [213,249,255],
 		"uniqueName": "As a sword sharpens a sword, so a stone sharpens a stone",
 		"uniques": ["[+4 Production] [in capital]", "Units ignore terrain costs when moving into any tile with Hills"],
-		"cities": ["Ba sing Se"]
+		"cities": ["Ba sing Se","Gaoling","Omashu","Basu","Yuyan","Hu-Tian","Gaolyang","Xiping","Laogai","Yu Dao","Omho","Gaixing"]
 	}
 ]
