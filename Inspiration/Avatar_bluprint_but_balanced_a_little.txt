@@ -1,0 +1,351 @@
+   •-•-•Avatar - Legend of a Civ•-•-•
+
+                     |
+
+                  -Civs-
+
+
+             --Earth kingdom--
+
+Civilization type: Neutral
+
+leader - Long Feng
+
+Unique bonuse:As a sword sharpens a sword, so a stone sharpens a stone
++4 production in the capital 
+units of this civilization do not spend points moving over hills 
+
+Initial spawn: Not tundra and snow
+
+unique building:Earthbending Mastery School 
+replaces the barracks building 
++2 productions in the city
+-2 gold
+
+unique units:
+Soldier Bender:
+replaces the spear unit-
+17 protection
+14 damage
+unique skills: This unit does not spend points moving over hills
+double the cost of production
+
+Dai Lee:
+
+replaces the long swordsman unit-
+does not differ in characteristics
+
+unique features: This unit is invisible outside a radius of 1 tile 
+
+a rider on an ostrich-horse
+
+replacement of the rider unit 
+
+a missed opportunity compared to the rider:reduced damage to cities
+
+earth kingdom tank:
+
+replacement of the long swordsman (yes! it's possible) unit
+
+18 protection instead of 13
+
+unique unit: metal bender
+
+unit replacement - musketeer
+
+characteristics are unchanged 
++ damage and protection against the type of units - armored
+
+missed opportunity compared to trebuchet: increased damage to cities, but increased damage to units,and increased protection against unit type: long-range
+
+         -phrases of the rule-
+
+game start:
+Oh Mighty Long Feng!Great Secretary and cunning manipulator, you had the honor of being a worthy ruler for the Kingdom of Earth!you have had the honor of leading this nation to victory, and you must make every effort to do so!your land is beautiful and diverse, and the warriors are strong and strong as stone.you and your people have been given the opportunity to bend the earth.So use it wisely and profitably!
+
+
+Acquaintance:
+I am Long Feng, the Grand Secretariat of the Earth King and the leader of Dai Li. Our Earth King wields the power of the elements and the strength of our nation, and under his rule, the Dai Li protects our people and interests.I think we can be equally useful to each other,how about peaceful coexistence?
+
+he makes a trade offer:
+I believe we can strengthen our bond and work together to ensure prosperity for our people
+
+when war is declared on him:
+As the Grand Secretary to the Earth King, I condemn your declaration of war on the Earth Kingdom. The Dai Li will not stand idly by while you endanger the peace and security of our people
+
+when he declares war:
+As the leader of the Dai Li and the Grand Secretary to the Earth King, I am authorized to declare war on your nation in the name of our peoples' safety and well-being.
+
+his civilization was destroyed:
+You have overwhelmed us with your strength and determination and have proven yourself the victor in this conflict. I ask for mercy for my people and seek a peaceful surrender on your terms.
+
+
+
+
+               --Air tribe--
+
+Type of civilization: Peaceful
+
+
+Initial spawn:Mountains or hills 
+
+Leader:Gyatso
+
+unique bonuse - nomadic people of the air 
+
+population grows very slowly in cities
++1 food from the hill cell
++ 4 faith from the tile - mountain
++8 culture from tiles - mountain and hill
+units pass through the mountains without damage 
++2 faith from the mountain tile
+units do not deplete movement points when walking on mountain and hill tiles
+
+a unique building: the Temple of Air 
+unique tile 
+construction time - 4 turns
++2 protection 
++14 cultures 
++7 religion 
++3 happiness 
+you can build only one in the same city
+
+unique unit: Air Bender
+
+replacement of the swordman unit
+
+5 protection instead of 8
+1+ movement point 
+
+-air airball rider-
+
+replacement of the rider unit 
+
+8 protection instead of 12
+
+7 movement points 
+
+
+Air Bison:
+
+the replacement of a knight
+
+20 protection instead of 12
+
+ignores the features of the area 
+
+immediately use nukes if they have them and if you attack 
+
+         -phrases of the ruler-
+
+game start:
+Hail the wise Giatso!Your wisdom and humility have given you excellent chances to lead your people to victory! Your peaceful approach and neutrality, a wonderful tool for the well-being of your people!So don't let us down Giatso!The small but native and dear tribe of the air relies on you!
+
+acquaintance:
+My friend, be sure to lead your people to peace, prosperity and happiness, not to war and misery. Be a light in the darkness of the world, and let your people flourish in that light
+
+he makes a trade offer 
+I have come with a proposition. I would like to engage in a beneficial trade offer with you that would help both our civilizations prosper. I propose the following
+
+War is declared on him
+Dear leader, I understand that you might feel threatened by us and our way of Life. However, I strongly believe that violence and war are not the answer.
+
+he declares war:
+I am sorry to say that despite our best efforts, it has become clear that we cannot resolve our conflict through peaceful negotiation. We have tried all options but unfortunately none have worked
+
+his civilization is destroyed:
+The events that have transpired today are devastating for our civilization. The defeat we have suffered at the hands of the enemy has left us in ruins, but we must not let this dampen our resolve
+
+
+
+
+             --Water Tribe--
+
+type of civilization: neutral
+
+initial spawn: Snow,coast 
+
+leader:Chief Arnook
+
+Unique bonuses:full moon
+
+Units of this civilization can overcome tile ice
++2 food in the city from the tundra
++ 2 cultures from the tile snow
++ 6 productions from tile ice 
++1 gold from the snow tile
+units of this civilization can go on the water before acquiring the optics technology
+
+-unique buildings:Ice fortress-
+unique tile 
+is built thanks to a unique unit
++2 happiness
++25 defens
++3 production before the opening of the optician
+
+-unique unit: water bender-
+
+replacement of the crossbowmanunit 
+
+10 protection instead of 8 
+7 damage
+attacks while landing on water, and does not spend movement points to land on water (so my level of knowledge of English is off the charts?)
+increased protection on the tile - snow
+
+-a unique unit - a rider on penguin-seal-
+
+replacement of the horseman unit 
+
+16 protection instead of 12 
+does not spend movement points to descend the cable
+
+-a unique unit - a working Bender-
+the type of unit is peaceful
+replaces the scout unit 
+builds a unique ice fortress tile in the same way as a great general 
+
+-unique unit - cleric-
+replacement unit missionary
+a lost opportunity compared to a missionary - to spread religion 
+treats +10 HP each turn,within one tile radius of it 
+
+          -phrases of the ruler-
+
+game start:
+Glory to you Chief Arnook!You and your people have the opportunity to show the world your strength and ability to survive in difficult conditions, you will show how flexible but sharp you are.You will have to face worthy opponents for the right to survive!Are you ready for this?
+
+acquaintance:
+Greetings, I am Chief Arnook of the Northern Water Tribe. We are the children of the moon. The spirits that guide our every decision are with us here.
+
+he makes a trade offer:
+This gift is not to be taken lightly, my frivolous-looking friend
+
+war is declared on him:
+We honor the spirits and the wisdom they have given us.If you, my frivolous-looking enemy,think that you have chosen a free place of residence, then you are very mistaken 
+
+he declares war:
+The Northern Water Tribe declares war on this enemy of peace and order. Our strength is strong, and our determination is steadfast. We will not stop
+
+his civilization was destroyed:
+We have fallen to a great enemy. Our civilization and way of life has been destroyed. We have nothing left to fight for other than our pride and the spirits that guided us. But the spirits will never abandon us.
+
+
+
+
+               --Fire Nation--
+
+the type of civilization - aggressive 
+
+leader - Sozin
+
+unique bonuses - A higher element
++ to the defense and attack of all units during the golden age
++4 culture from killing an enemy unit
+
+unique building - volcanic prison 
+7 turns are being built
++happiness  protection 
++5 happiness
+can be built in one city once 
+
+-unique units - firebender soldier-
+replaces the pickeman unit 
+14 protection instead of 11
++20 strength against type of melee units
+missed opportunity compared to spearman: +50 strength against cavalry type units 
+
+-unique unit: rhinoceros rider-
+
+replaces the knight unit 
+
+25 protection instead of 12 
++18 strength against ranged unit type 
+2 movement points instead of four 
+
+-unique unit-
+Sozin's soldier
+replaces the unit - a muscketer
++15 power against all unit types
+
+a unique unit - a steamship 
+replaces the Frigate unit
+3 movement points instead 5
++8 defense against land units 
+
+-unique unit-fire-
+nation airship
+
+unit replacement - cannon
+ignores all terrain features, can move over mountains 
+moves like a helicopter
+
+-unique unit -
+fire nation tank 
+unit replacement - cavalry
+35 protection
+3 move
++50 strength against ranged unit type 
+
+-unique unit-
+colossal drill
+unit replacement - lancer
+a missed opportunity compared to the long Swordsman - attack unit types all
++100 strength against the city
+huge production cost - 50
+
+         -phrases of the ruler-
+
+game start:
+Hail! Hail, great emperor!Lead! Lead the people of fire to world domination! Prove to the world how much higher the element of fire is in the world!Do not let us down, great Sozin!
+
+acquaintance:
+As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.
+
+
+he makes a trade offer:
+As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods
+
+war is declared on him:
+I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail
+
+he declares war:
+As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value
+
+his civilization was destroyed:
+We have fought hard, but our efforts have fallen short...
+
+
+
+
+
+             -other details-
+
+a unique unit - Avatar - is also available for all four civilizations
+
+70 strength against all unit types 
++0 power against the city 
+the unit is replaced by a great general 
+appears in the same way.The unit should disappear after 10 turns
+
+cities-states:
+
+-Sun people court-
+Civ type - cultural
+warrior city 
+
+-Kyoshi Island-
+civ type - trading
+sea civ
+
+That's all my gray matter was capable of
+I hope that someday I will be able to play with this mod, and not only me 
+
+in my opinion, the existence of benders themselves is already absurd in order to try to balance them a little for non-bender civilizations 
+
+
+
+
+
+
+
+
