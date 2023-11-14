@@ -1,1 +1,34 @@
+[
+        {
+		//nations
+		"name": "Earth kingdom",
+		"leaderName": "Long Feng",
+		"adjective": ["Kingdom"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 
+		"startIntroPart1": "Introduction",
+		"startIntroPart2": "Oh Mighty Long Feng!Great Secretary and cunning manipulator, you had the honor of being a worthy ruler for the Kingdom of Earth!you have had the honor of leading this nation to victory, and you must make every effort to do so!your land is beautiful and diverse, and the warriors are strong and strong as stone.you and your people have been given the opportunity to bend the earth.So use it wisely and profitably!",
+
+		"declaringWar": "As the leader of the Dai Li and the Grand Secretary to the Earth King, I am authorized to declare war on your nation in the name of our peoples' safety and well-being.",
+		"attacked": "As the Grand Secretary to the Earth King, I condemn your declaration of war on the Earth Kingdom. The Dai Li will not stand idly by while you endanger the peace and security of our people",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Islam",
+		"uniqueName": "Ingenuity",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	}
+]
