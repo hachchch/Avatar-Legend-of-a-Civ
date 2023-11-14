@@ -25,5 +25,38 @@
 		"uniqueName": "As a sword sharpens a sword, so a stone sharpens a stone",
 		"uniques": ["[+4 Production] [in capital]", "Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Ba sing Se","Gaoling","Omashu","Basu","Yuyan","Hu-Tian","Gaolyang","Xiping","Laogai","Yu Dao","Omho","Gaixing"]
+	},
+	{
+		"name": "Air tribe",
+		"leaderName": "Gyatso",
+		"adjective": ["Air"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Neutral",
+
+		"startIntroPart1": "Introduction",
+		"startIntroPart2": "Oh Mighty Long Feng!Great Secretary and cunning manipulator, you had the honor of being a worthy ruler for the Kingdom of Earth!you have had the honor of leading this nation to victory, and you must make every effort to do so!your land is beautiful and diverse, and the warriors are strong and strong as stone.you and your people have been given the opportunity to bend the earth.So use it wisely and profitably!",
+
+		"declaringWar": "As the leader of the Dai Li and the Grand Secretary to the Earth King, I am authorized to declare war on your nation in the name of our peoples' safety and well-being.",
+		"attacked": "As the Grand Secretary to the Earth King, I condemn your declaration of war on the Earth Kingdom. The Dai Li will not stand idly by while you endanger the peace and security of our people",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "I am Long Feng, the Grand Secretariat of the Earth King and the leader of Dai Li. Our Earth King wields the power of the elements and the strength of our nation, and under his rule, the Dai Li protects our people and interests.I think we can be equally useful to each other,how about peaceful coexistence?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I believe we can strengthen our bond and work together to ensure prosperity for our people",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Nomadic People of the Air",
+		"uniques": ["[-50]% growth [in all cities] <when not at war>",
+		"[-75]% growth [in all cities] <when at war>",
+			"[+1 Food] from [Hill] tiles [in all cities]","[+2 Faith] from [Mountain] tiles [in all cities]",
+		"[+1 Faith, +1 Food] from [Mountain] tiles [in holy cities]",
+		"[+4 Culture] from [Mountain] tiles [in all cities] <during We Love The King Day>",
+		"[+1 Culture] from [{Hill} {Luxury resource}] tiles [in all cities]",
+		"Land units may cross [Mountain] tiles after the first [Settler] is earned",
+		"[All] units gain the [Person of Air] promotion"],
+		"cities": ["Northern Air Temple","Eastern Air Temple","Southern Air Temple","Western Air Temple","North Central Plains","North Northwestern Border","West Central Plains","South Central Plains","Seer's Shrine","The Great Gate of the West","Eastern Air Sanctuary"]
 	}
 ]
