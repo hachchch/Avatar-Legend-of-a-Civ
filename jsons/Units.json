@@ -1,0 +1,16 @@
+[
+        {
+                "name": "Soldier Bender",
+                "movement": 2,
+                "cost": 112, // Double Costed
+                "requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"attackSound": "metalhit"
+                "uniqueTo": "Earth Kingdom",
+                "replaces": "spearman",
+                "unitType": "Sword",
+                "strength": 14,
+                "uniques": ["17 protection","14 damage","[+50]% Strength <vs [Mounted] units>","[+21]% Strength <when defending>"],
+        }
+]
