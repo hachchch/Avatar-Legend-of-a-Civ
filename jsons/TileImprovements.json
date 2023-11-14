@@ -2,3 +2,15 @@
         {
                 "name": "The Temple of Air",
                 "uniqueTo": "Air Tribe",
+                "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"culture": 1,
+                "faith": 1,
+                "production": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Philosophy",
+		"uniques": ["[-1 Faith, +1 Gold, +1 Production] <after discovering [Economics]>",
+                        "[+1 Happiness] <after discovering [Theology]>",
+            "Pillaging this improvement yields approximately [+36 Faith]"],
+		"shortcutKey": "A"
+        }
+]
