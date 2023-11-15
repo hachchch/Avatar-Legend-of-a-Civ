@@ -67,20 +67,20 @@
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Introduction",
-		"startIntroPart2": "Hail the wise Giatso!Your wisdom and humility have given you excellent chances to lead your people to victory! Your peaceful approach and neutrality, a wonderful tool for the well-being of your people!So don't let us down Giatso!The small but native and dear tribe of the air relies on you!",
+		"startIntroPart2": "Hail! Hail, great emperor!Lead! Lead the people of fire to world domination! Prove to the world how much higher the element of fire is in the world!Do not let us down, great Sozin!",
 		
-		"declaringWar": "I am sorry to say that despite our best efforts, it has become clear that we cannot resolve our conflict through peaceful negotiation. We have tried all options but unfortunately none have worked",
-		"attacked": "Dear leader, I understand that you might feel threatened by us and our way of Life. However, I strongly believe that violence and war are not the answer.",
-		"defeated": "The events that have transpired today are devastating for our civilization. The defeat we have suffered at the hands of the enemy has left us in ruins, but we must not let this dampen our resolve",
-		"introduction": "My friend, be sure to lead your people to peace, prosperity and happiness, not to war and misery. Be a light in the darkness of the world, and let your people flourish in that light",
+		"declaringWar": "As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value",
+		"attacked": "I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail",
+		"defeated": "We have fought hard, but our efforts have fallen short..",
+		"introduction": "As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "Greetings...",
+		"hateHello": "I hate",
 
-		"tradeRequest": "I have come with a proposition. I would like to engage in a beneficial trade offer with you that would help both our civilizations prosper. I propose the following",
+		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
 
-		"outerColor": [134,167,217],
-		"innerColor": [229,245,253],
+		"outerColor": [255,255,255],
+		"innerColor": [200,20,30],
 		"uniqueName": "A higher Elemental",
 		"uniques": ["[+10]% Strength <when attacking> <vs [Wounded] units>",
 			"[+10]% Strength <when attacking> <vs cities> <during a Golden Age>",
