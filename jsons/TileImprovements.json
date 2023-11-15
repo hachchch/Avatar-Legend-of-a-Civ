@@ -8,9 +8,13 @@
                 "production": 1,
 		"turnsToBuild": 6,
 		"techRequired": "Philosophy",
-		"uniques": ["[-6 Faith, +4 Gold, +2 Production] <after discovering [Economics]>",
-                        "[+1 Happiness] <after discovering [Theology]>",
-            "Pillaging this improvement yields approximately [+36 Faith]","<in [Holy site] tiles>"],
+		"uniques": ["[-6 Faith, +1 Science, +3 Gold, +3 Production] <after discovering [Economics]>",
+                        "[+1 Happiness, +1 Culture] <after discovering [Theology]>",
+			"[+1 Culture, +2 Science] <after discovering [Education]>",
+			"Provides [1] [Oil] <after discovering [Flight]>",
+			"[+1 Production] <after discovering [Flight]>",
+			"[+1 Production] for each adjacent [City center] <after discovering [Flight]>",
+            "Pillaging this improvement yields approximately [+36 Faith]","Can only be built on [Land] tiles <in [Holy site] tiles>"],
 		"shortcutKey": "A"
         }
 ]
