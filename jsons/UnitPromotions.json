@@ -2,5 +2,9 @@
         {
                 "name": "Person of Air",
                 "uniques": ["Ignores terrain cost <in [Hill] tiles>","Ignores terrain cost <in [Mountain] tiles>","Heal this unit by [15] HP <upon ending a turn in a [Mountain] tile>"]
+        },
+        {
+                "name": "Fire Elemental",
+                "uniques": ["Gain [1]-[10] [Culture] <upon defeating a [{Enemy} {Military}] unit>"]
         }
 ]
