@@ -244,7 +244,7 @@
 		"cost": 235,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Iron",
-		"uniques": ["No defensive terrain bonus","Can only attack [Enemy land] tiles","Destroys tile improvements when attacking","[+125]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["No defensive terrain bonus","Destroys tile improvements when attacking","[+125]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"promotions": ["Drill I","Drill II"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
