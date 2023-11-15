@@ -4,13 +4,13 @@
                 "uniqueTo": "Air Tribe",
                 "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"culture": 1,
-                "faith": 1,
+                "faith": 6,
                 "production": 1,
 		"turnsToBuild": 6,
 		"techRequired": "Philosophy",
-		"uniques": ["[-1 Faith, +1 Gold, +1 Production] <after discovering [Economics]>",
+		"uniques": ["[-6 Faith, +4 Gold, +2 Production] <after discovering [Economics]>",
                         "[+1 Happiness] <after discovering [Theology]>",
-            "Pillaging this improvement yields approximately [+36 Faith]"],
+            "Pillaging this improvement yields approximately [+36 Faith]","<in [Holy site] tiles>"],
 		"shortcutKey": "A"
         }
 ]
