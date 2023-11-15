@@ -81,15 +81,11 @@
 
 		"outerColor": [134,167,217],
 		"innerColor": [229,245,253],
-		"uniqueName": "Nomadic People of the Air",
-		"uniques": ["[-50]% growth [in all cities] <when not at war>",
-		"[-75]% growth [in all cities] <when at war>",
-			"[+1 Food] from [Hill] tiles [in all cities]","[+2 Faith] from [Mountain] tiles [in all cities]",
-		"[+1 Faith, +1 Food] from [Mountain] tiles [in holy cities]",
-		"[+4 Culture] from [Mountain] tiles [in all cities] <during We Love The King Day>",
-		"[+1 Culture] from [{Hill} {Luxury resource}] tiles [in all cities]",
-		"Land units may cross [Mountain] tiles after the first [Settler] is earned",
-		"[All] units gain the [Person of Air] promotion"],
+		"uniqueName": "A higher Elemental",
+		"uniques": ["[+10]% Strength <when attacking> <vs [Wounded] units>",
+			"[+10]% Strength <when attacking> <vs cities> <during a Golden Age>",
+			"[+20]% Strength <during a Golden Age>",
+		"[All] units gain the [Fire Elemental] promotion"],
 		"cities": ["Northern Air Temple","Eastern Air Temple","Southern Air Temple","Western Air Temple","North Central Plains","North Northwestern Border","West Central Plains","South Central Plains","Seer's Shrine","The Great Gate of the West","Eastern Air Sanctuary"]
 	}
 ]
