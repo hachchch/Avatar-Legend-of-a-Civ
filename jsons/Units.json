@@ -1,5 +1,13 @@
 [
         {
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles","Can build [Air Temple] improvements on tiles <in [Holy site] tiles>""
+			"Automation is a primary action"],
+		"cost": 70
+	},
+	{
                 "name": "Soldier Bender",
                 "movement": 2,
                 "cost": 112, // Double Costed
