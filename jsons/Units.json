@@ -229,10 +229,10 @@
 		"cost": 225,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
-		"requiredResource": "Horses",
+		"requiredResource": "Iron",
 		"upgradesTo": "Landship",
 		"uniques": ["[+50]% Strength <vs [Ranged] units>","Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Colossal Drill",
