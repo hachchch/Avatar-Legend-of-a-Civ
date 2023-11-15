@@ -19,6 +19,7 @@
 			"Can build [Terrace farm] improvements on tiles",
 			"Can build [Polder] improvements on tiles",
 			"Can build [The Temple of Air] improvements on tiles <in [Holy site] tiles>",
+			"Can build [Volcanic Prison] improvements on tiles <in [Holy site] tiles>",
 			"Automation is a primary action"],
 		"cost": 70
 	},
