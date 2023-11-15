@@ -79,7 +79,7 @@
 
 		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
 
-		"outerColor": [255,255,255],
+		"outerColor": [25,10,0],
 		"innerColor": [200,20,30],
 		"uniqueName": "A higher Elemental",
 		"uniques": ["[+10]% Strength <when attacking> <vs [Wounded] units>",
