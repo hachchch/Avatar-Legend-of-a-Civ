@@ -8,7 +8,7 @@
                 "uniques": ["Gain [1]-[10] [Culture] <upon defeating a [{Enemy} {Military}] unit>"]
         },
         {
-                "name": "",
-                "uniques": [""]
+                "name": "Exaltation",
+                "uniques": ["[+1] additional attacks per turn <for [50] turns>","Doing so will consume this opportunity to choose a Promotion"]
         }
 ]
