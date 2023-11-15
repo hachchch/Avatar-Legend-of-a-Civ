@@ -85,7 +85,8 @@
 		"uniques": ["[+10]% Strength <when attacking> <vs [Wounded] units>",
 			"[+10]% Strength <when attacking> <vs cities> <during a Golden Age>",
 			"[+20]% Strength <during a Golden Age>",
-		"[All] units gain the [Fire Elemental] promotion"],
+		"[All] units gain the [Fire Elemental] promotion",
+		"Provides [1] [Iron] <after discovering [Iron Working]>"],
 		"cities": ["Capital Island","Shuhon Island","Ma'inka Island","Ember Island","Crescent Island","Dizin Island","Hing Wa Island"]
 	}
 ]
