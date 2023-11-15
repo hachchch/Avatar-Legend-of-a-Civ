@@ -70,5 +70,20 @@
 		"obsoleteTech": "Rifling",
 		"uniques": ["[+33]% Strength <vs [Armored] units>"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Air Bender",
+		"uniqueTo": "Air Tribe",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
