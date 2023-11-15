@@ -16,5 +16,20 @@
 			"[+1 Production] for each adjacent [City center] <after discovering [Flight]>",
             "Pillaging this improvement yields approximately [+36 Faith]"],
 		"shortcutKey": "A"
-        }
+        },
+	{
+		"name": "Volcanic Prison",
+		"uniqueTo": "Fire Nation",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 11,
+		"happiness": 3,
+		"faith": 6,
+		"techRequired": "Bronze Working",
+		"uniques": ["[+3 Happiness] <when at war>",
+			"Pillaging this improvement yields [+25 Science, +100 Gold]",
+		"[+6 Science] <after discovering [Biology]> <when at war>",
+		"[+6 Science] <after discovering [Ecology]> <when not at war>",
+		"Gives a defensive bonus of [+50]%","Gives a defensive bonus of [+25]% <after discovering [Steel]>"],
+		"shortcutKey": "V"
+	}
 ]
