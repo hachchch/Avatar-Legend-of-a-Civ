@@ -201,7 +201,7 @@
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"uniques": ["[+1] additional attacks per turn <upon defeating a [Enemy] unit> <for [50] turns>","[+30]% Strength <vs [Land] units> <when defending>","[-90]% Strength <vs [Cannon] units> <when defending>","[-70]% Strength <vs [Frigate] units> <when defending>"],
+		"uniques": ["This Unit gains the [Exaltation] promotion <upon defeating a [Enemy] unit>","[+30]% Strength <vs [Land] units> <when defending>","[-90]% Strength <vs [Cannon] units> <when defending>","[-70]% Strength <vs [Frigate] units> <when defending>"],
 		"attackSound": "cannon"
 	},
 	{
