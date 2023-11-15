@@ -146,7 +146,7 @@
 	// Fire Nation
 	{
 		"name": "Firebender Soldier",
-		"uniqueTo": "Fore Nation",
+		"uniqueTo": "Fire Nation",
 		"replaces": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -160,7 +160,7 @@
 	},
 	{
 		"name": "Rhinoceros Rider",
-		"uniqueTo": "Fore Nation",
+		"uniqueTo": "Fire Nation",
 		"replaces": "Horseman",
 		"unitType": "Mounted",
 		"movement": 2,
