@@ -53,6 +53,7 @@
 	},
 	{
 		"name": "Ostrich Rider",
+		"uniqueTo": "Earth Kingdom",
 		"replaces": "Horseman",
 		"unitType": "Mounted",
 		"movement": 3,
@@ -99,8 +100,8 @@
 		"uniqueTo": "Air Tribe",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
-		"movement": 2,
-		"strength": 14,
+		"movement": 3,
+		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
@@ -108,5 +109,35 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Airball Rider",
+		"uniqueTo": "Air Tribe",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 7,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+20]% Strength <when attacking>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Air Bison",
+		"uniqueTo": "Air Tribe",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 26,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can carry [1] [Missile] units","Ignores terrain cost","Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
 ]
