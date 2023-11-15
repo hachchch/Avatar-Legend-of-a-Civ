@@ -2,7 +2,7 @@
         {
                 "name": "The Temple of Air",
                 "uniqueTo": "Air Tribe",
-                "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+                "terrainsCanBeBuiltOn": ["Hill"],
 		"culture": 1,
                 "faith": 6,
                 "production": 1,
