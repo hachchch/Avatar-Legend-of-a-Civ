@@ -58,5 +58,38 @@
 		"Land units may cross [Mountain] tiles after the first [Settler] is earned",
 		"[All] units gain the [Person of Air] promotion"],
 		"cities": ["Northern Air Temple","Eastern Air Temple","Southern Air Temple","Western Air Temple","North Central Plains","North Northwestern Border","West Central Plains","South Central Plains","Seer's Shrine","The Great Gate of the West","Eastern Air Sanctuary"]
+	},
+	{
+		"name": "Fire Nation",
+		"leaderName": "Sozin",
+		"adjective": ["Fire"],
+		"startBias": ["Avoid [Snow]","Avoid [Tundra]","Avoid [Forest]","Avoid [Jungle]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Introduction",
+		"startIntroPart2": "Hail the wise Giatso!Your wisdom and humility have given you excellent chances to lead your people to victory! Your peaceful approach and neutrality, a wonderful tool for the well-being of your people!So don't let us down Giatso!The small but native and dear tribe of the air relies on you!",
+		
+		"declaringWar": "I am sorry to say that despite our best efforts, it has become clear that we cannot resolve our conflict through peaceful negotiation. We have tried all options but unfortunately none have worked",
+		"attacked": "Dear leader, I understand that you might feel threatened by us and our way of Life. However, I strongly believe that violence and war are not the answer.",
+		"defeated": "The events that have transpired today are devastating for our civilization. The defeat we have suffered at the hands of the enemy has left us in ruins, but we must not let this dampen our resolve",
+		"introduction": "My friend, be sure to lead your people to peace, prosperity and happiness, not to war and misery. Be a light in the darkness of the world, and let your people flourish in that light",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Greetings...",
+
+		"tradeRequest": "I have come with a proposition. I would like to engage in a beneficial trade offer with you that would help both our civilizations prosper. I propose the following",
+
+		"outerColor": [134,167,217],
+		"innerColor": [229,245,253],
+		"uniqueName": "Nomadic People of the Air",
+		"uniques": ["[-50]% growth [in all cities] <when not at war>",
+		"[-75]% growth [in all cities] <when at war>",
+			"[+1 Food] from [Hill] tiles [in all cities]","[+2 Faith] from [Mountain] tiles [in all cities]",
+		"[+1 Faith, +1 Food] from [Mountain] tiles [in holy cities]",
+		"[+4 Culture] from [Mountain] tiles [in all cities] <during We Love The King Day>",
+		"[+1 Culture] from [{Hill} {Luxury resource}] tiles [in all cities]",
+		"Land units may cross [Mountain] tiles after the first [Settler] is earned",
+		"[All] units gain the [Person of Air] promotion"],
+		"cities": ["Northern Air Temple","Eastern Air Temple","Southern Air Temple","Western Air Temple","North Central Plains","North Northwestern Border","West Central Plains","South Central Plains","Seer's Shrine","The Great Gate of the West","Eastern Air Sanctuary"]
 	}
 ]
