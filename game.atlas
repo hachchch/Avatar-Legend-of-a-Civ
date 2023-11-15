@@ -25,3 +25,24 @@ NationIcons/Earth Kingdom
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Water Tribe
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Colossal Drill
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sozin's Soldier
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
