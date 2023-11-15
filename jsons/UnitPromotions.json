@@ -6,5 +6,9 @@
         {
                 "name": "Fire Elemental",
                 "uniques": ["Gain [1]-[10] [Culture] <upon defeating a [{Enemy} {Military}] unit>"]
+        },
+        {
+                "name": "",
+                "uniques": [""]
         }
 ]
