@@ -14,7 +14,7 @@
 			"Provides [1] [Oil] <after discovering [Flight]>",
 			"[+1 Production] <after discovering [Flight]>",
 			"[+1 Production] for each adjacent [City center] <after discovering [Flight]>",
-            "Pillaging this improvement yields approximately [+36 Faith]","Can only be built on [Land] tiles <in [Holy site] tiles>"],
+            "Pillaging this improvement yields approximately [+36 Faith]"],
 		"shortcutKey": "A"
         }
 ]
