@@ -109,8 +109,8 @@
 
 		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
 
-		"outerColor": [25,10,0],
-		"innerColor": [200,20,30],
+		"outerColor": [15,10,50],
+		"innerColor": [245,240,255],
 		"uniqueName": "Full Moon",
 		"uniques": ["[+1 Food] from [Tundra] tiles [in all cities]",
 			"[+1 Food, +1 Science] from [Snow] tiles [in all cities]",
@@ -144,8 +144,8 @@
 
 		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
 
-		"outerColor": [25,10,0],
-		"innerColor": [200,20,30],
+		"outerColor": [0,10,25],
+		"innerColor": [30,20,200],
 		"uniqueName": "A higher Elemental",
 		"uniques": ["Cannot build [Settler] units"],
 		"cities": ["Metropolis"]
