@@ -1,12 +1,27 @@
 [
         {
                 "name": "Volcano",
+		"type": "Land",
+		"impassable": true,
+		"RGB": [164, 102, 102],
+		"uniques": ["Rough terrain",
+            "Has an elevation of [2] for visibility calculations",
+            "Occurs in chains at high elevations",
+            "Units ending their turn on this terrain take [50] damage",
+            "Always Fertility [-2] for Map Generation",
+            "Considered [Undesirable] when determining start locations",
+		"Occurs at temperature between [0.6] and [1.5] and humidity between [0] and [0.1]",
+            "Occurs at temperature between [0.7] and [1.4] and humidity between [0.1] and [0.2]",
+            "Occurs at temperature between [0.8] and [1.3] and humidity between [0.2] and [0.3]",
+            "Occurs at temperature between [0.9] and [1.2] and humidity between [0.3] and [0.4]",
+            "Occurs at temperature between [1.0] and [1.1] and humidity between [0.4] and [0.5]"]
         },
         {
                 "name": "Magma plains",
+		"defenceBonus": -0.25,
 		"type": "Land",
 		"movementCost": 1,
-		"RGB": [153, 180, 51],
+		"RGB": [250, 142, 0],
 		"uniques": ["Occurs at temperature between [0.6] and [1.5] and humidity between [0] and [0.1]",
             "Occurs at temperature between [0.7] and [1.4] and humidity between [0.1] and [0.2]",
             "Occurs at temperature between [0.8] and [1.3] and humidity between [0.2] and [0.3]",
