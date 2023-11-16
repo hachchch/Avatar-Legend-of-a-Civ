@@ -125,8 +125,8 @@
 		"cities": ["Agna Qel'a","Amna Qel'a","Avohai'iq","Avohai'lo","Erutoe","Falmi'ri","H'ronmear","Kalan'iq","Kanalet'i","Katav'i"]
 	},
 	{
-		"name": "City Republics",
-		"leaderName": "A",
+		"name": "Republic City",
+		"leaderName": "Tenzin",
 		"adjective": ["Police"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
@@ -134,20 +134,20 @@
 		"startIntroPart1": "Introduction",
 		"startIntroPart2": "Introduction",
 		
-		"declaringWar": "As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value",
-		"attacked": "I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail",
-		"defeated": "We have fought hard, but our efforts have fallen short..",
-		"introduction": "As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.",
+		"declaringWar": "We tried to find a reasonable and mutually beneficial solution to this conflict, but it is clear that the negotiations failed",
+		"attacked": "We are deeply concerned by the declaration of war by your civilization. However, we are committed to maintaining the peace and security of our people, and we are confident in our ability to defend ourselves",
+		"defeated": "I am greatly saddened by the outcome of this war, and I am concerned for the safety and well-being of my people.",
+		"introduction": "Hello, my name is Tenzin, and I am the councilman of Republic City. It is a pleasure to meet you. I am curious to learn more about your civilization. Can you tell me more about the beliefs, values, and practices of your people?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "I hate you",
 
-		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
+		"tradeRequest": "I would like to offer you a chance to raise the standard of living of your people",
 
-		"outerColor": [30,20,60],
-		"innerColor": [140,135,155],
-		"uniqueName": "A higher Elemental",
-		"uniques": ["Cannot build [Settler] units"],
+		"outerColor": [50,40,20],
+		"innerColor": [130,100,50],
+		"uniqueName": "Public Rule",
+		"uniques": ["Cannot build [Settler] units","Settler not spawn when addapting Collective Rule","[3] population [in capital] <upon adopting [Collective Rule]>"],
 		"cities": ["Metropolis"]
 	}
 ]
