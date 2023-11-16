@@ -67,17 +67,17 @@
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Introduction",
-		"startIntroPart2": "Glory to you Chief Arnook!You and your people have the opportunity to show the world your strength and ability to survive in difficult conditions, you will show how flexible but sharp you are.You will have to face worthy opponents for the right to survive!Are you ready for this?",
+		"startIntroPart2": "Hail! Hail, great emperor!Lead! Lead the people of fire to world domination! Prove to the world how much higher the element of fire is in the world!Do not let us down, great Sozin!",
 		
-		"declaringWar": "The Northern Water Tribe declares war on this enemy of peace and order. Our strength is strong, and our determination is steadfast. We will not stop",
-		"attacked": "We honor the spirits and the wisdom they have given us.If you, my frivolous-looking enemy,think that you have chosen a free place of residence, then you are very mistaken",
-		"defeated": "We have fallen to a great enemy. Our civilization and way of life has been destroyed. We have nothing left to fight for other than our pride and the spirits that guided us. But the spirits will never abandon us.",
-		"introduction": "Greetings, I am Chief Arnook of the Northern Water Tribe. We are the children of the moon. The spirits that guide our every decision are with us here.",
+		"declaringWar": "As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value",
+		"attacked": "I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail",
+		"defeated": "We have fought hard, but our efforts have fallen short..",
+		"introduction": "As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "I hate",
 
-		"tradeRequest": "This gift is not to be taken lightly, my frivolous-looking friend",
+		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
 
 		"outerColor": [25,10,0],
 		"innerColor": [200,20,30],
@@ -97,17 +97,17 @@
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Introduction",
-		"startIntroPart2": "Hail! Hail, great emperor!Lead! Lead the people of fire to world domination! Prove to the world how much higher the element of fire is in the world!Do not let us down, great Sozin!",
+		"startIntroPart2": "Glory to you Chief Arnook!You and your people have the opportunity to show the world your strength and ability to survive in difficult conditions, you will show how flexible but sharp you are.You will have to face worthy opponents for the right to survive!Are you ready for this?",
 		
-		"declaringWar": "As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value",
-		"attacked": "I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail",
-		"defeated": "We have fought hard, but our efforts have fallen short..",
-		"introduction": "As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.",
+		"declaringWar": "The Northern Water Tribe declares war on this enemy of peace and order. Our strength is strong, and our determination is steadfast. We will not stop",
+		"attacked": "We honor the spirits and the wisdom they have given us.If you, my frivolous-looking enemy,think that you have chosen a free place of residence, then you are very mistaken",
+		"defeated": "We have fallen to a great enemy. Our civilization and way of life has been destroyed. We have nothing left to fight for other than our pride and the spirits that guided us. But the spirits will never abandon us.",
+		"introduction": "Greetings, I am Chief Arnook of the Northern Water Tribe. We are the children of the moon. The spirits that guide our every decision are with us here.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "I hate",
 
-		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
+		"tradeRequest": "This gift is not to be taken lightly, my frivolous-looking friend",
 
 		"outerColor": [15,10,50],
 		"innerColor": [245,240,255],
