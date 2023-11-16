@@ -251,5 +251,17 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "cannon"
+	},
+	// Water Tribe
+	{
+		"name": "Working Bender",
+		"unitType": "Civilian",
+		"replaces": "Scout",
+		"uniqueTo": "Water Tribe",
+		"movement": 2,
+		"cost": 70,
+		"uniques": ["Can instantly construct a [Ice Fortress] improvement <by consuming this unit> <before discovering [Architecture]>",
+			"Can instantly construct a [Ice Fortress] improvement <[2] times> <after which this unit is consumed> <after discovering [Architecture]>",
+			"Never appears as a Barbarian unit","Uncapturable"]
 	}
 ]
