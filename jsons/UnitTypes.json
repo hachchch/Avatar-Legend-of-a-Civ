@@ -1,39 +1,48 @@
 [
     {
         "name": "Civilian",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Sword",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Archery",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Ranged Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Scout",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-10] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Armored",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-2] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Siege",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["Heal this unit by [-5] HP <upon ending a turn in a [Magma plains] tile> <for units without [Fire Elemental]>"]
     },
     {
         "name": "Civilian Water",
@@ -80,44 +89,5 @@
         "name": "Helicopter",
         "movementType": "Land",
         "uniques": ["Can pass through impassable tiles"]
-    },
-
-    // Deprecated unit types required for mods without a UnitTypes.json file to work
-
-    {
-        "name": "Melee",
-        "movementType": "Land"
-    },
-    {
-        "name": "Ranged",
-        "movementType": "Land"
-    },
-    {
-        "name": "Armor",
-        "movementType": "Land"
-    },
-    {
-        "name": "WaterCivilian",
-        "movementType": "Water"
-    },
-    {
-        "name": "WaterMelee",
-        "movementType": "Water"
-    },
-    {
-        "name": "WaterRanged",
-        "movementType": "Water"
-    },
-    {
-        "name": "WaterSubmarine",
-        "movementType": "Water"
-    },
-    {
-        "name": "WaterAircraftCarrier",
-        "movementType": "Water"
-    },
-    {
-        "name": "AtomicBomber",
-        "movementType": "Air"
     }
 ]
