@@ -43,7 +43,7 @@
 	{
 		"name": "Volcanic Prison",
 		"uniqueTo": "Fire Nation",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Magma plains","Hill"],
 		"turnsToBuild": 11,
 		"happiness": 3,
 		"faith": 6,
