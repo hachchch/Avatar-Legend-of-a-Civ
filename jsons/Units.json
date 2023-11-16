@@ -263,5 +263,46 @@
 		"uniques": ["Can instantly construct a [Ice Fortress] improvement <by consuming this unit> <before discovering [Architecture]>",
 			"Can instantly construct a [Ice Fortress] improvement <[2] times> <after which this unit is consumed> <after discovering [Architecture]>",
 			"Never appears as a Barbarian unit","Uncapturable"]
+	},
+	{
+		"name": "water Bender",
+		"uniqueTo": "Water Tribe",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 18,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","May attack when embarked","Eliminates combat penalty for attacking across a coast"],
+		"attackSound": "crossbow"
+	},
+	{
+		"name": "Penguin-Seal Rider",
+		"uniqueTo": "Water Tribe",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Double movement in [Hill]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Cleric",
+		"uniqueTo": "Water Tribe",
+		"replaces": "Missionary",
+		"unitType": "Civilian",
+		"uniques": ["Units +10 HP each turn,within one tile radius of it.","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
+		"movement": 4,
+		"religiousStrength": 1000
 	}
 ]
