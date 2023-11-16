@@ -147,7 +147,8 @@
 		"outerColor": [50,40,20],
 		"innerColor": [130,100,50],
 		"uniqueName": "Public Rule",
-		"uniques": ["Cannot build [Settler] units","!Settler may not spawn! when adopting Collective Rule","[3] population [in capital] <upon adopting [Collective Rule]>"],
+		"uniques": ["Cannot build [Settler] units","!Settler may not spawn! when adopting Collective Rule","[3] population [in capital] <upon adopting [Collective Rule]>",
+		"Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.","Science gained from research agreements [50]%","Resting point for Influence with City-States following this religion [10]","Gain [15] Influence with a [Diplomat] gift to a City-State","May not annex cities <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Metropolis"]
 	}
 ]
