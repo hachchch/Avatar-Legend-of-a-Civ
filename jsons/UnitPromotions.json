@@ -9,6 +9,10 @@
         },
         {
                 "name": "Exaltation",
-                "uniques": ["[+1] additional attacks per turn <for [50] turns>","Doing so will consume this opportunity to choose a Promotion"]
-        }
+                "uniques": ["[1] additional attacks per turn","Doing so will consume this opportunity to choose a Promotion"]
+        },
+        {
+                "name": "Lunar Hymns",
+                "uniques": ["Can enter ice tiles","[+10]% Strength <when fighting in [Snow] tiles>"]
+         }
 ]
