@@ -36,6 +36,21 @@
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
+	{
+		"name": "Magma plains",
+		"defenceBonus": -0.25,
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [250, 142, 0],
+		"uniques": ["Occurs at temperature between [0.6] and [0.9] and humidity between [0] and [0.1]",
+            "Occurs at temperature between [0.7] and [0.8] and humidity between [0.1] and [0.2]",
+            "[+3] to Fertility for Map Generation",
+            "A Region is formed with at least [30]% [Magma plains] tiles, with priority [6]",
+            "A Region can not contain more [Grassland] tiles than [Magma plains] tiles",
+            "Considered [Undesirable] when determining start locations",
+            "Considered [Undesirable] when determining start locations <in all except [Magma plains] Regions>",
+            "Every [8] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
         {
                 "name": "Volcano",
 		"type": "Land",
@@ -49,20 +64,5 @@
             "Considered [Undesirable] when determining start locations",
 		"Occurs at temperature between [0.6] and [0.9] and humidity between [0] and [0.1]",
             "Occurs at temperature between [0.7] and [0.8] and humidity between [0.1] and [0.2]"]
-        },
-        {
-                "name": "Magma plains",
-		"defenceBonus": -0.25,
-		"type": "Land",
-		"movementCost": 1,
-		"RGB": [250, 142, 0],
-		"uniques": ["Occurs at temperature between [0.6] and [0.9] and humidity between [0] and [0.1]",
-            "Occurs at temperature between [0.7] and [0.8] and humidity between [0.1] and [0.2]",
-            "[+3] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Magma plains] tiles, with priority [6]",
-            "A Region can not contain more [Grassland] tiles than [Magma plains] tiles",
-            "Considered [Undesirable] when determining start locations",
-            "Considered [Undesirable] when determining start locations <in all except [Magma plains] Regions>",
-            "Every [8] tiles with this terrain will receive a major deposit of a strategic resource."]
         }
 ]
