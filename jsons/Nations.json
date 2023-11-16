@@ -147,7 +147,7 @@
 		"outerColor": [50,40,20],
 		"innerColor": [130,100,50],
 		"uniqueName": "Public Rule",
-		"uniques": ["Cannot build [Settler] units","Settler not spawn when addapting Collective Rule","[3] population [in capital] <upon adopting [Collective Rule]>"],
+		"uniques": ["Cannot build [Settler] units","Settler may not spawn when adopting Collective Rule","[3] population [in capital] <upon adopting [Collective Rule]>"],
 		"cities": ["Metropolis"]
 	}
 ]
