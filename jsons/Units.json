@@ -302,7 +302,18 @@
 		"unitType": "Civilian",
 		"uniques": ["Units +10 HP each turn,within one tile radius of it.","Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 4,
+		"movement": 2,
 		"religiousStrength": 1000
+	},
+	// Republic City
+	{
+		"name": "Diplomat",
+		"uniqueTo": "Republic City",
+		"replaces": "Missionary",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence","Can be purchased with [Faith] [in all cities]",
+			"[-1] Sight", "Unbuildable", "Religious Unit","Hidden when religion is disabled"],
+		"movement": 3,
+		"religiousStrength": 750
 	}
 ]
