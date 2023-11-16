@@ -63,7 +63,7 @@
 		"name": "Fire Nation",
 		"leaderName": "Sozin",
 		"adjective": ["Fire"],
-		"startBias": ["Avoid [Snow]","Avoid [Tundra]","Avoid [Forest]","Avoid [Jungle]"],
+		"startBias": ["Magma plains","Avoid [Snow]","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Introduction",
@@ -82,7 +82,7 @@
 		"outerColor": [25,10,0],
 		"innerColor": [200,20,30],
 		"uniqueName": "A higher Elemental",
-		"uniques": ["[+10]% Strength <when attacking> <vs [Wounded] units>",
+		"uniques": ["[+1 Production, +1 Food] from [Magma plains] tiles [in all non-occupied cities]","[+10]% Strength <when attacking> <vs [Wounded] units>",
 			"[+10]% Strength <when attacking> <vs cities> <during a Golden Age>",
 			"[+20]% Strength <during a Golden Age>",
 		"[All] units gain the [Fire Elemental] promotion",
