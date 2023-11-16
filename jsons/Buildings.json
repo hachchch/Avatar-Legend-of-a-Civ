@@ -8,5 +8,11 @@
 		"maintenance": 3,
 		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
-        }
+        },
+	{
+		"name": "Ice Fortress Project",
+		"uniqueTo": "Water Tribe",
+		"cost": 75,
+		"uniques": ["Must have an owned [Ice] within [3] tiles","Creates a [Drift Ice Fortress] improvement on a specific tile","Destroyed when the city is captured","Must be next to [Coast]","[Ice Fortress]"]
+	}
 ]
