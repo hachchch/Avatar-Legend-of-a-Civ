@@ -13,6 +13,7 @@
         },
         {
                 "name": "Lunar Hymns",
-                "uniques": ["Can enter ice tiles","[+10]% Strength <when fighting in [Snow] tiles>"]
+                "uniques": ["Can enter ice tiles","[+10]% Strength <when fighting in [Snow] tiles>",
+                "Heal this unit by [10] HP <upon ending a turn in a [All] tile> <when adjacent to a [Cleric] unit>"]
          }
 ]
