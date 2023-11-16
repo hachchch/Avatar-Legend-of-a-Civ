@@ -144,8 +144,8 @@
 
 		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
 
-		"outerColor": [0,10,25],
-		"innerColor": [30,20,200],
+		"outerColor": [30,20,60],
+		"innerColor": [140,135,155],
 		"uniqueName": "A higher Elemental",
 		"uniques": ["Cannot build [Settler] units"],
 		"cities": ["Metropolis"]
