@@ -88,5 +88,66 @@
 		"[All] units gain the [Fire Elemental] promotion",
 		"Provides [1] [Iron] <after discovering [Iron Working]>"],
 		"cities": ["Capital Island","Shuhon Island","Ma'inka Island","Ember Island","Crescent Island","Dizin Island","Hing Wa Island"]
-	}
+	},
+	{
+		"name": "Water Tribe",
+		"leaderName": "Chief Arnook",
+		"adjective": ["Fire"],
+		"startBias": ["Coast","Tundra","Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Introduction",
+		"startIntroPart2": "Hail! Hail, great emperor!Lead! Lead the people of fire to world domination! Prove to the world how much higher the element of fire is in the world!Do not let us down, great Sozin!",
+		
+		"declaringWar": "As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value",
+		"attacked": "I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail",
+		"defeated": "We have fought hard, but our efforts have fallen short..",
+		"introduction": "As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "I hate",
+
+		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
+
+		"outerColor": [25,10,0],
+		"innerColor": [200,20,30],
+		"uniqueName": "Full Moon",
+		"uniques": ["[+1 Food] from [Tundra] tiles [in all cities]",
+			"[+1 Food, +1 Science] from [Snow] tiles [in all cities]",
+			"[+2 Culture] from [Snow] tiles [in capital] <after adopting [Piety]>",
+			"[+2 Science] from [Snow] tiles [in capital] <after adopting [Rationalism]>",
+			"[+6 Production] from [Ice] tiles [in all cities]",
+			"[+1 Gold] from [Snow] tiles [in all cities] <during a Golden Age>",
+			"[-1 Gold, +1 Science] from [Ocean] tiles [in all cities]",
+			"Enables embarkation for land units <starting from the [Ancient era]>",
+			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+		"[All] units gain the [Lunar Hymns] promotion"],
+		"cities": ["Agna Qel'a","Amna Qel'a","Avohai'iq","Avohai'lo","Erutoe","Falmi'ri","H'ronmear","Kalan'iq","Kanalet'i","Katav'i"]
+	},
+	{
+		"name": "City Republics",
+		"leaderName": "A",
+		"adjective": ["Police"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Introduction",
+		"startIntroPart2": "Introduction",
+		
+		"declaringWar": "As the Fire Lord, I declare that the Fire Nation has had enough of your insolence and defiance. We have no intention of further negotiations or agreements, and we will not hesitate to destroy your nation and take any and all resources that we deem of value",
+		"attacked": "I am resolute in my commitment to defend our nation and our people against any threat, including yours. Declaring war is no trifling matter, and I urge you to consider the costs and damage that such a conflict would entail",
+		"defeated": "We have fought hard, but our efforts have fallen short..",
+		"introduction": "As Fire Lord and ruler of the Fire Nation, I come before you in a spirit of respect and friendship. The Fire Nation has made vast progress in recent years, particularly in our advancements in technology and innovation.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "I hate you",
+
+		"tradeRequest": "As leader of the Fire Nation, I am pleased to present this trade offer to you. The Fire Nation has a wealth of resources and goods",
+
+		"outerColor": [25,10,0],
+		"innerColor": [200,20,30],
+		"uniqueName": "A higher Elemental",
+		"uniques": ["Cannot build [Settler] units"],
+		"cities": ["Metropolis"]
+	},
 ]
