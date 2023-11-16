@@ -5,7 +5,7 @@
         },
         {
                 "name": "Fire Elemental",
-                "uniques": ["Gain [1]-[10] [Culture] <upon defeating a [{Enemy} {Military}] unit>"]
+                "uniques": ["Gain [1]-[10] [Culture] <upon defeating a [{Enemy} {Military}] unit>","[+25]% Strength <when fighting in [Magma plains] tiles>"]
         },
         {
                 "name": "Exaltation",
