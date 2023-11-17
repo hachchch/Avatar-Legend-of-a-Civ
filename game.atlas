@@ -61,6 +61,19 @@ UnitIcons/Sozin's Soldier
   offset: 0, 0
   index: -1
 
+game0.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/City center
+  rotate: false
+  xy: 436, 244
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+
 game2.png
 size: 2048, 2048
 format: RGBA8888
