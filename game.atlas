@@ -157,14 +157,14 @@ TileSets/FantasyHex/Units/Metal Bender
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Dai Lee
+TileSets/FantasyHex/Units/Soldier Bender
   rotate: false
   xy: 224, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tank of Earth Kingdom
+TileSets/FantasyHex/Units/Dai Lee
   rotate: false
   xy: 256, 0
   size: 32, 28
