@@ -366,3 +366,24 @@ TileSets/FantasyHex/Tiles/City center-Earth Kingdom-Ancient era
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Horses-Earth Kingdom
+  rotate: false
+  xy: 640, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Horses-Fire Nation
+  rotate: false
+  xy: 672, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Horses-Water Tribe
+  rotate: false
+  xy: 704, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
