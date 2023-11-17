@@ -102,28 +102,7 @@ UnitIcons/Cleric
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Horses-Earth Kingdom
-  rotate: false
-  xy: 1200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Horses-Fire Nation
-  rotate: false
-  xy: 1200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Horses-Water Tribe
-  rotate: false
-  xy: 1200, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Horses-Air Tribe
+UnitIcons/Ostrich Rider
   rotate: false
   xy: 1200, 0
   size: 100, 100
