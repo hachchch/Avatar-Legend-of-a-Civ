@@ -89,7 +89,7 @@ TileSets/FantasyHex/Units/Rhinoceros Rider
   index: -1
 TileSets/FantasyHex/Units/Worker-Fire Nation
   rotate: false
-  xy: 96, 0
+  xy: 106, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
