@@ -61,19 +61,6 @@ UnitIcons/Sozin's Soldier
   offset: 0, 0
   index: -1
 
-game0.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/FantasyHex/Tiles/City center
-  rotate: false
-  xy: 436, 244
-  size: 32, 35
-  orig: 32, 35
-  offset: 0, 0
-  index: -1
-
 game2.png
 size: 2048, 2048
 format: RGBA8888
@@ -246,7 +233,7 @@ TileSets/FantasyHex/Tiles/Magma plains+Hill
   orig: 32, 48
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Air Tribe
+TileSets/FantasyHex/Tiles/City center-Air Tribe-Ancient era
   rotate: false
   xy: 224, 0
   size: 32, 40
@@ -267,7 +254,7 @@ TileSets/FantasyHex/Tiles/Volcanic Prison
   orig: 32, 35
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Fire Nation
+TileSets/FantasyHex/Tiles/City center-Fire Nation-Ancient era
   rotate: false
   xy: 320, 0
   size: 32, 32
@@ -323,14 +310,14 @@ TileSets/FantasyHex/Tiles/City center-Fire Nation-Renaissance era
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Water Tribe
+TileSets/FantasyHex/Tiles/City center-Water Tribe-Ancient era
   rotate: false
   xy: 576, 0
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Earth Kingdom
+TileSets/FantasyHex/Tiles/City center-Earth Kingdom-Ancient era
   rotate: false
   xy: 608, 0
   size: 32, 32
