@@ -93,7 +93,6 @@
 		"defenceBonus": 1.25,
 		"occursOn": ["Grassland"],
 		"uniques": [
-			"Vegetation",
 			"Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
