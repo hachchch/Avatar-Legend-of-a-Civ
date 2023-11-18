@@ -90,11 +90,10 @@
 		"type": "NaturalWonder",
 		"food": 3,
 		"faith": 5,
+		"defenceBonus": 1.25,
 		"occursOn": ["Grassland"],
 		"uniques": [
 			"Vegetation",
-			"Gives a defensive bonus of [120]%",
-			"Costs [1] [Culture] per turn when in your territory",
 			"Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
