@@ -64,5 +64,43 @@
             "Considered [Undesirable] when determining start locations",
 		"Occurs at temperature between [0.6] and [0.9] and humidity between [0] and [0.1]",
             "Occurs at temperature between [0.7] and [0.8] and humidity between [0.1] and [0.2]"]
-        }
+        },
+	{
+		"name": "Tidal spirits Pond",
+		"type": "NaturalWonder",
+		"happiness": 3,
+		"food": 2,
+		"faith": 3,
+		"occursOn": ["Tundra","Snow"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [0] [Mountain] tiles",
+			"Must be adjacent to [0] [Plains] tiles",
+			"Must be adjacent to [1] to [4] [Hill] tiles",
+			"Must not be on [1] largest landmasses"],
+		"turnsInto": "Mountain",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 10
+	},
+	{
+		"name": "Great live Tree",
+		"type": "NaturalWonder",
+		"food": 5,
+		"faith": 6,
+		"occursOn": ["Grassland"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [0] [Mountain] tiles",
+			"Must be adjacent to [0] [Plains] tiles",
+			"Must be adjacent to [0] [Hill] tiles",
+			"Must be adjacent to [0] [Jungle] tiles",
+			"Must be adjacent to [1] to [4] [Forest] tiles",
+			"Must not be on [1] largest landmasses"],
+		"turnsInto": "Mountain",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 9
+	}
 ]
