@@ -18,6 +18,6 @@
          },
         {
                 "name": "Moon Power",
-                "uniques": ["[+15]% Strength <for [Embarked] units>","Enables [All] units to enter ocean tiles <upon ending a turn in a [All] tile>"]
+                "uniques": ["[+15]% Strength <when attacking> <vs [Embarked] units>","May travel on Water tiles without embarking"]
         }
 ]
