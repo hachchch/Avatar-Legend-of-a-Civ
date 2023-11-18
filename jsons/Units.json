@@ -37,7 +37,7 @@
 			"Only available <for [Republic City]>",
 			"Unable to capture cities",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Free [Fire Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+            "Free [Fire Avatar] appears <by consuming this unit> <once>",
 			"Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
@@ -52,7 +52,7 @@
 			"Only available <for [Republic City]>",
 			"Unable to capture cities",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Free [Water Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+            "Free [Water Avatar] appears <by consuming this unit> <once>",
 			"Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
@@ -67,7 +67,7 @@
 			"Only available <for [Republic City]>",
 			"Unable to capture cities",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Free [Earth Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+            "Free [Earth Avatar] appears <by consuming this unit> <once>",
 			"Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
@@ -82,7 +82,7 @@
 			"Only available <for [Republic City]>",
 			"Unable to capture cities",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "Free [Air Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+            "Free [Air Avatar] appears <by consuming this unit> <once>",
 			"Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	},
