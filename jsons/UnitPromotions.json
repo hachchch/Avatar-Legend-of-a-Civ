@@ -18,6 +18,7 @@
          },
         {
                 "name": "Moon Power",
-                "uniques": [""]
+                "uniques": ["Enables [All] units to enter ocean tiles <upon ending a turn in a [All] tile>",
+                ]
         }
 ]
