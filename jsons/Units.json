@@ -25,6 +25,55 @@
 			"Automation is a primary action"],
 		"cost": 70
 	},
+	// Avatars
+	{
+		"name": "Fire Avatar",
+		"uniqueTo": "Fire Nation",
+		"replaces": "Great General",
+		"strength": 30,
+		"unitType": "Gunpowder",
+		"uniques": ["Unable to capture cities",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Free [Fire Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+			"Great Person - [War]", "Unbuildable"],
+		"movement": 2
+	},
+	{
+		"name": "Water Avatar",
+		"uniqueTo": "Water Tribe",
+		"replaces": "Great General",
+		"strength": 30,
+		"unitType": "Gunpowder",
+		"uniques": ["Unable to capture cities",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Free [Water Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+			"Great Person - [War]", "Unbuildable"],
+		"movement": 2
+	},
+	{
+		"name": "Earth Avatar",
+		"uniqueTo": "Earth Kingdom",
+		"replaces": "Great General",
+		"strength": 30,
+		"unitType": "Gunpowder",
+		"uniques": ["Unable to capture cities",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Free [Earth Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+			"Great Person - [War]", "Unbuildable"],
+		"movement": 2
+	},
+	{
+		"name": "Air Avatar",
+		"uniqueTo": "Air Tribe",
+		"replaces": "Great General",
+		"strength": 30,
+		"unitType": "Gunpowder",
+		"uniques": ["Unable to capture cities",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "Free [Air Avatar] appears <by consuming this unit> <when below [25] HP> <once>",
+			"Great Person - [War]", "Unbuildable"],
+		"movement": 2
+	},
 	// Earth Kingdom
 	{
                 "name": "Soldier Bender",
