@@ -304,6 +304,69 @@ TileSets/FantasyHex/Units/Steelship
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Cleric
+  rotate: false
+  xy: 480, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Working Bender
+  rotate: false
+  xy: 512, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/water Bender
+  rotate: false
+  xy: 544, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Penguin-Seal Rider
+  rotate: false
+  xy: 576, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Avatar-Earth Kingdom
+  rotate: false
+  xy: 608, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Avatar-Air Tribe
+  rotate: false
+  xy: 640, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Avatar-Water Tribe
+  rotate: false
+  xy: 672, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Avatar-Fire Nation
+  rotate: false
+  xy: 704, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank of Earth Kingdom
+  rotate: false
+  xy: 736, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 
 game3.png
 size: 2048, 2048
