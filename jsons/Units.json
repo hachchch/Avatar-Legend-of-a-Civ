@@ -30,6 +30,7 @@
 		"name": "Great Avatar",
 		"strength": 30,
 		"cost": 1500,
+		"attackSound": "Exprotion",
 		"unitType": "Gunpowder",
 		"uniques": ["Avatar","Unable to capture cities <hidden from users>","[-1000]% Strength <vs cities> <when attacking> <hidden from users>",
             "[+15]% Strength bonus for [Military] units within [2] tiles",
@@ -44,7 +45,7 @@
                 "requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"attackSound": "metalhit",
+		"attackSound": "Stone",
                 "uniqueTo": "Earth Kingdom",
                 "replaces": "Spearman",
                 "unitType": "Sword",
@@ -59,9 +60,9 @@
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
+		"attackSound": "Stone",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit",
 		"uniqueTo": "Earth Kingdom",
 		"replaces": "Longswordsman",
 		"uniques": ["Invisible to non-adjacent units"]
@@ -87,11 +88,11 @@
 		"movement": 2,
 		"strength": 18,
 		"cost": 120,
+		"attackSound": "Exprotion",
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"attackSound": "metalhit",
 		"uniqueTo": "Earth Kingdom",
 		"replaces": "Longswordsman",
 		"uniques": ["[+17]% Strength <in [Friendly Land] tiles> <when defending>","[+33]% Strength <when defending>"]
@@ -108,7 +109,7 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"uniques": ["[+33]% Strength <vs [Armored] units>"],
-		"attackSound": "shot"
+		"attackSound": "metalhit"
 	},
 	// Air Tribe
 	{
@@ -123,7 +124,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
+		"attackSound": "arrow",
 	},
 	{
 		"name": "Airball Rider",
@@ -138,7 +139,7 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["[+20]% Strength <when attacking>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Air Bison",
@@ -168,7 +169,7 @@
 		"uniques": ["[+25]% Strength <vs [Melee] units>","[+12]% Strength <when defending>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"attackSound": "metalhit"
+		"attackSound": "Fire"
 	},
 	{
 		"name": "Rhinoceros Rider",
@@ -196,7 +197,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"attackSound": "shot",
+		"attackSound": "Fire",
 		"uniques": ["[+15]% Strength <vs [All] units> <when attacking> <for units with [Morale]>"],
 	},
 	{
@@ -214,7 +215,7 @@
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
 		"uniques": ["This Unit gains the [Exaltation] promotion <upon defeating a [Enemy] unit>","[+30]% Strength <vs [Land] units> <when defending>","[-90]% Strength <vs [Cannon] units> <when defending>","[-70]% Strength <vs [Frigate] units> <when defending>"],
-		"attackSound": "cannon"
+		"attackSound": "Anime Artillery"
 	},
 	{
 		"name": "Fire Nation Airship",
@@ -229,7 +230,7 @@
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
 		"uniques": ["All tiles cost 1 movement","Ranged attacks may be performed over obstacles","Can pass through impassable tiles","Ignores terrain cost","Ignores Zone of Control","Can see over obstacles","Can move after attacking","[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
+		"attackSound": "Anime Artillery"
 	},
 	{
 		"name": "Fire Nation Tank",
@@ -244,7 +245,7 @@
 		"requiredResource": "Iron",
 		"upgradesTo": "Landship",
 		"uniques": ["[+50]% Strength <vs [Ranged] units>","Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "cannon"
+		"attackSound": "Exprotion"
 	},
 	{
 		"name": "Colossal Drill",
@@ -260,7 +261,7 @@
 		"promotions": ["Drill I","Drill II"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
-		"attackSound": "cannon"
+		"attackSound": "Drill"
 	},
 	{
 		"name": "Fire Nation Infantry",
@@ -274,7 +275,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"attackSound": "cannon"
+		"attackSound": "Fire"
 	},
 	// Water Tribe
 	{
@@ -301,7 +302,7 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"uniques": ["May travel on Water tiles without embarking","Eliminates combat penalty for attacking over a river","May attack when embarked","Eliminates combat penalty for attacking across a coast"],
-		"attackSound": "crossbow"
+		"attackSound": "Splash"
 	},
 	{
 		"name": "Penguin-Seal Rider",
