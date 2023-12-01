@@ -91,6 +91,7 @@
 	},
 	{
 		"name": "Water Tribe",
+		"favoredReligion": "Adoration of Moon",
 		"leaderName": "Chief Arnook",
 		"adjective": ["Fire"],
 		"startBias": ["Coast","Tundra","Avoid [Desert]"],
