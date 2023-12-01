@@ -137,7 +137,7 @@ UnitIcons/Cleric
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Water Bender
+UnitIcons/water Bender
   rotate: false
   xy: 400, 100
   size: 100, 100
