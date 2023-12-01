@@ -1,1 +1,166 @@
-
+AbsoluteUnits.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Temperate
+  rotate: false
+  xy: 0, 0
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Air Bender
+  rotate: false
+  xy: 0, 68
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Soldier Bender
+  rotate: false
+  xy: 0, 136
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Firebender Soldier
+  rotate: false
+  xy: 0, 204
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sozin's Soldier
+  rotate: false
+  xy: 0, 272
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/water Bender
+  rotate: false
+  xy: 0, 340
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tank of Earth Kingdom
+  rotate: false
+  xy: 0, 408
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Steelship
+  rotate: false
+  xy: 0, 472
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rhinoceros Rider
+  rotate: false
+  xy: 0, 536
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ostrich Rider
+  rotate: false
+  xy: 0, 600
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Air Bison
+  rotate: false
+  xy: 0, 664
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dai Lee
+  rotate: false
+  xy: 0, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cleric
+  rotate: false
+  xy: 20, 792
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Working Bender
+  rotate: false
+  xy: 20, 856
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Metal Bender
+  rotate: false
+  xy: 0, 920
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fire Nation Infantry
+  rotate: false
+  xy: 0, 984
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fire Nation Airship
+  rotate: false
+  xy: 0, 1048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Avatar-Earth Kingdom
+  rotate: false
+  xy: 0, 1112
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Avatar-Fire Nation
+  rotate: false
+  xy: 0, 1176
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Avatar-Water Tribe
+  rotate: false
+  xy: 0, 1240
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Avatar-Air Tribe
+  rotate: false
+  xy: 0, 1304
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Airball Rider
+  rotate: false
+  xy: 0, 1368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fire Nation Tank
+  rotate: false
+  xy: 0, 1432
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
