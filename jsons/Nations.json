@@ -23,7 +23,7 @@
 		"outerColor": [25,148,26],
 		"innerColor": [236,189,16],
 		"uniqueName": "As a sword sharpens a sword, so a stone sharpens a stone",
-		"uniques": ["[+4 Production] [in capital]", "Units ignore terrain costs when moving into any tile with Hills"],
+		"uniques": ["[+4 Production] [in capital]", "Units ignore terrain costs when moving into any tile with Hills","Avatar Nations <hidden from users>"],
 		"cities": ["Ba sing Se","Gaoling","Omashu","Basu","Yuyan","Hu-Tian","Gaolyang","Xiping","Laogai","Yu Dao","Omho","Gaixing"]
 	},
 	{
@@ -56,7 +56,7 @@
 		"[+4 Culture] from [Mountain] tiles [in all cities] <during We Love The King Day>",
 		"[+1 Culture] from [{Hill} {Luxury resource}] tiles [in all cities]",
 		"Land units may cross [Mountain] tiles after the first [Settler] is earned",
-		"[All] units gain the [Person of Air] promotion"],
+		"[All] units gain the [Person of Air] promotion","Avatar Nations <hidden from users>"],
 		"cities": ["Northern Air Temple","Eastern Air Temple","Southern Air Temple","Western Air Temple","North Central Plains","North Northwestern Border","West Central Plains","South Central Plains","Seer's Shrine","The Great Gate of the West","Eastern Air Sanctuary"]
 	},
 	{
@@ -86,7 +86,7 @@
 			"[+10]% Strength <when attacking> <vs cities> <during a Golden Age>",
 			"[+20]% Strength <during a Golden Age>",
 		"[All] units gain the [Fire Elemental] promotion",
-		"Provides [1] [Iron] <after discovering [Iron Working]>"],
+		"Provides [1] [Iron] <after discovering [Iron Working]>","Avatar Nations <hidden from users>"],
 		"cities": ["Capital Island","Shuhon Island","Ma'inka Island","Ember Island","Crescent Island","Dizin Island","Hing Wa Island"]
 	},
 	{
@@ -122,7 +122,7 @@
 			"[-1 Gold, +1 Science] from [Ocean] tiles [in all cities]",
 			"Enables embarkation for land units <starting from the [Ancient era]>",
 			"Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
-		"[All] units gain the [Lunar Hymns] promotion"],
+		"[All] units gain the [Lunar Hymns] promotion","Avatar Nations <hidden from users>"],
 		"cities": ["Agna Qel'a","Amna Qel'a","Avohai'iq","Avohai'lo","Erutoe","Falmi'ri","H'ronmear","Kalan'iq","Kanalet'i","Katav'i"]
 	},
 	{
@@ -149,7 +149,7 @@
 		"innerColor": [130,100,50],
 		"uniqueName": "Public Rule",
 		"uniques": ["Cannot build [Settler] units","!Settler may not spawn! when adopting Collective Rule","[3] population [in capital] <upon adopting [Collective Rule]>",
-		"Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.","Science gained from research agreements [50]%","Resting point for Influence with City-States following this religion [10]","Gain [15] Influence with a [Diplomat] gift to a City-State","May not annex cities <when fighting units from a Civilization with more Cities than you>"],
+		"Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.","Science gained from research agreements [50]%","Resting point for Influence with City-States following this religion [10]","Gain [15] Influence with a [Diplomat] gift to a City-State","May not annex cities <when fighting units from a Civilization with more Cities than you>","Avatar Nations <hidden from users>"],
 		"cities": ["Metropolis"]
 	}
 ]
