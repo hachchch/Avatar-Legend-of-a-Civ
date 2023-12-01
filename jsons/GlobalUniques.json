@@ -1,4 +1,5 @@
 {
         "name": "Global uniques",
-        "uniques": ["May buy [Avatar] units with [Gold] for [1] times their normal Production cost"]
+        "uniques": ["May buy [Avatar] units with [Gold] for [3] times their normal Production cost <for [non-[Avatar Nations]]>",
+        "May buy [Avatar] units with [Gold] for [3] times their normal Production cost <for [Avatar Nations]>"]
 }
