@@ -56,6 +56,15 @@
 		"shortcutKey": "V"
 	},
 	{
+		"name": "Trading post",
+		"terrainsCanBeBuiltOn": ["Magma plains","Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "T"
+	}.
+	{
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Magma plains","Desert","Tundra","Snow","Forest","Jungle","Marsh","Flood plains","Hill"],
 		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
