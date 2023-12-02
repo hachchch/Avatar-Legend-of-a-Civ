@@ -1,0 +1,61 @@
+Hexarealm.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Volcano
+  rotate: false
+  xy: 0, 0
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magma plains
+  rotate: false
+  xy: 64, 0
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magma plains2
+  rotate: false
+  xy: 128, 0
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcanic Prison
+  rotate: false
+  xy: 192, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/The Temple of Air
+  rotate: false
+  xy: 256, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Ice Fortress
+  rotate: false
+  xy: 320, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magma plains+Hill
+  rotate: false
+  xy: 384, 0
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magma plains+Hill2
+  rotate: false
+  xy: 448, 0
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
