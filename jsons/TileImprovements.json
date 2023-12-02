@@ -63,7 +63,7 @@
 		"techRequired": "Guilds",
 		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
-	}.
+	},
 	{
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Magma plains","Desert","Tundra","Snow","Forest","Jungle","Marsh","Flood plains","Hill"],
