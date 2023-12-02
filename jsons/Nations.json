@@ -5,7 +5,7 @@
 		"leaderName": "Long Feng",
 		"adjective": ["Kingdom"],
 		"startBias": ["Avoid [Tundra]","Avoid [Snow]"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Introduction",
 		"startIntroPart2": "Oh Mighty Long Feng!Great Secretary and cunning manipulator, you had the honor of being a worthy ruler for the Kingdom of Earth!you have had the honor of leading this nation to victory, and you must make every effort to do so!your land is beautiful and diverse, and the warriors are strong and strong as stone.you and your people have been given the opportunity to bend the earth.So use it wisely and profitably!",
@@ -31,7 +31,7 @@
 		"leaderName": "Gyatso",
 		"adjective": ["Air"],
 		"startBias": ["Mountain"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Introduction",
 		"startIntroPart2": "Hail the wise Giatso!Your wisdom and humility have given you excellent chances to lead your people to victory! Your peaceful approach and neutrality, a wonderful tool for the well-being of your people!So don't let us down Giatso!The small but native and dear tribe of the air relies on you!",
