@@ -451,6 +451,20 @@ TileSets/FantasyHex/Units/Tank of Earth Kingdom
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Metal Bender
+  rotate: false
+  xy: 768, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Avatar
+  rotate: false
+  xy: 800, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 
 game3.png
 size: 2048, 2048
