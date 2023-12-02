@@ -256,6 +256,13 @@ UnitIcons/Working Bender
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Great Avatar
+  rotate: false
+  xy: 1700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Water Bender
   rotate: false
   xy: 1800, 0
