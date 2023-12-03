@@ -61,14 +61,14 @@ TileSets/HexaRealm/Tiles/Magma plains+Hill2
   index: -1
 TileSets/HexaRealm/Tiles/Moon spirits Pond
   rotate: false
-  xy: 512, -3
+  xy: 512, -4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Great live Tree
   rotate: false
-  xy: 576, -3
+  xy: 576, -4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
