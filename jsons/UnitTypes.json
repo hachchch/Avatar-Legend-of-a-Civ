@@ -97,7 +97,6 @@
         "Ignores terrain cost","Ignores Zone of Control","All tiles cost 1 movement","Siege"]
     },
     {
-        "name": "Pinniped",
-        "uniques": [""]
+        "name": "Pinniped"
     }
 ]
