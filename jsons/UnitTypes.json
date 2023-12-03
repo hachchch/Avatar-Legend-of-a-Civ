@@ -92,6 +92,8 @@
     },
     {
         "name": "Technical Amphibious",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["Can pass through impassable tiles",
+        "Can see over obstacles","Ranged attacks may be performed over obstacles","Can pass through impassable tiles",
+        "Ignores terrain cost","Ignores Zone of Control","All tiles cost 1 movement","Siege"]
     }
 ]
