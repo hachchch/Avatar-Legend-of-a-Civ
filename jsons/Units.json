@@ -161,7 +161,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can carry [1] [Missile] units","Ignores terrain cost","Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can carry [1] [Missile] units <hidden from users>","Ignores terrain cost","All tiles cost 1 movement <hidden from users>","Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	// Fire Nation
